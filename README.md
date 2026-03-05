@@ -126,9 +126,9 @@ DELETE ```/api/users/:id```
 ## 📥 Example Request Body
 ```
 {
-"name": "Shubham Raut",
-"email": "[asphaltshubhuu@gmail.com](asphaltshubhuu@gmail.com)",
-"age": 25
+  "name": "Shubham Raut",
+  "email": "asphaltshubhuu@gmail.com",
+  "age": 25
 }
 ```
 ---
