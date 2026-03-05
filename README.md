@@ -43,42 +43,38 @@ Tools
 ---
 
 ## 📂 Project Structure
+```
+node-crud-app/
+├── config/
+│   └── db.js          # Database connection
+├── controllers/
+│   └── user.controller.js
+├── models/
+│   └── user.model.js
+├── routes/
+│   └── user.routes.js
+├── .env                # Environment variables
+├── .gitignore
+├── package.json
+└── server.js           # Entry point
 
-node-crud-app
-
-config/
-└── db.js
-
-controllers/
-└── user.controller.js
-
-models/
-└── user.model.js
-
-routes/
-└── user.routes.js
-
-.env
-.gitignore
-server.js
-package.json
-
+```
 ---
 
 ## ⚙️ Installation
 
 ### 1 Clone Repository
-
+```
 git clone https://github.com/SRCarlo/crudforge-node.git
-
+```
 ### 2 Navigate to Project
-
+```
 cd node-crud-app
-
+```
 ### 3 Install Dependencies
-
+```
 npm install
-
+```
 ---
 
 ## 🔑 Environment Variables
@@ -86,55 +82,55 @@ npm install
 Create a `.env` file in the root directory.
 
 Example configuration:
-
+```
 PORT=5000
 MONGO_URI=mongodb://127.0.0.1:27017/procrud
-
+```
 ---
 
 ## ▶️ Run the Application
 
 Development mode
-
+```
 npm run dev
-
+```
 Production mode
-
+```
 node server.js
-
+```
 Server runs at:
-
+```
 http://localhost:5000
-
+```
 ---
 
 ## 📡 API Endpoints
 
 Create User
-POST /api/users
+POST ```/api/users```
 
 Get All Users
-GET /api/users
+GET ```/api/users```
 
 Get User by ID
-GET /api/users/:id
+GET ```/api/users/:id```
 
 Update User
-PUT /api/users/:id
+PUT ```/api/users/:id```
 
 Delete User
-DELETE /api/users/:id
+DELETE ```/api/users/:id```
 
 ---
 
 ## 📥 Example Request Body
-
+```
 {
 "name": "Shubham Raut",
 "email": "[asphaltshubhuu@gmail.com](asphaltshubhuu@gmail.com)",
 "age": 25
 }
-
+```
 ---
 
 ## 🧪 API Testing
